@@ -1,0 +1,197 @@
+{
+  "speakers": [
+    {
+      "name": "Всеволод Кочнев",
+      "job_title": "Сирена",
+      "talk_title": "Эволюция взаимодействия Nuxt и NestJS: от REST к GraphQL через паттерн Repository и Nuxt layers",
+      "avatar_url": "https://squidex.jugru.team/api/assets/srm/4e6526db-fdd7-4b2a-a667-0daf6fd25dfc/2024-02-09-20.17.02.jpg?cache=3600&width=350&height=350&mode=CropUpsize"
+    },
+    {
+      "name": "Марат Зимнуров",
+      "job_title": "Авито",
+      "talk_title": "Этот замечательный мир без GUI, или Как выжить в терминале с помощью JavaScript",
+      "avatar_url": "https://squidex.jugru.team/api/assets/srm/81f53c32-d59f-44f4-a590-b8f5c57299e2/e98b6ede-3169-445c-9de0-398dfa0804b6-1-201-a.jpeg?cache=3600&width=350&height=350&mode=CropUpsize"
+    },
+    {
+      "name": "Василий Алфертьев",
+      "job_title": "Открытые решения",
+      "talk_title": "Дырявое решето типов: разбираемся с отношением подтипов в TypeScript",
+      "avatar_url": "https://squidex.jugru.team/api/assets/srm/06197560-5707-47f9-ad9d-83e8811b696f/ava2025.jpg?cache=3600&width=350&height=350&mode=CropUpsize"
+    },
+    {
+      "name": "Юрий Карпов",
+      "job_title": "Сбер",
+      "talk_title": "Измеряем настоящую цену абстракций в JavaScript",
+      "avatar_url": "https://squidex.jugru.team/api/assets/srm/76ee1a46-0d7b-4002-a1e9-fb10d49e4c29/0082-1.jpeg?cache=3600&width=350&height=350&mode=CropUpsize"
+    },
+    {
+      "name": "Валерия Зелёная",
+      "job_title": "YADRO",
+      "talk_title": "Довести себя до выгорания: только вредные советы",
+      "avatar_url": "https://squidex.jugru.team/api/assets/srm/2690f7e7-269f-48f8-aead-062ea39f2433/2024-12-03-16.36.35.jpg?cache=3600&width=350&height=350&mode=CropUpsize"
+    },
+    {
+      "name": "Дмитрий Андриянов",
+      "job_title": "Яндекс",
+      "talk_title": "Как писать полезные unit-тесты для веб-интерфейса",
+      "avatar_url": "https://squidex.jugru.team/api/assets/srm/9d9e0f0e-ac26-4c2c-8ca4-d57e7095695e/170419-yandex24012.jpg?cache=3600&width=350&height=350&mode=CropUpsize"
+    },
+    {
+      "name": "Денис Чернов",
+      "job_title": "SM Lab",
+      "talk_title": "Созвездия композаблов",
+      "avatar_url": "https://squidex.jugru.team/api/assets/srm/9299ecb7-81e2-46b0-9bbd-2aa1490dcf5b/photo-2023-10-20-13-07-29.jpg?cache=3600&width=350&height=350&mode=CropUpsize"
+    },
+    {
+      "name": "Максим Чугуев",
+      "job_title": "Т-Банк",
+      "talk_title": "Создание своего языка запросов как альтернатива ваших форм",
+      "avatar_url": "https://squidex.jugru.team/api/assets/srm/64a63d03-de54-4026-a825-57545fa34af8/snimok-ekrana-2025-09-01-v-10.10.09.png?cache=3600&width=350&height=350&mode=CropUpsize"
+    },
+    {
+      "name": "Серафима Чекулаева",
+      "job_title": "self. — айти-сообщество про карьеру",
+      "talk_title": "Карьерный трекинг",
+      "avatar_url": "https://squidex.jugru.team/api/assets/srm/067f5577-9c24-4237-afd0-39ea9c0b5b2f/tg-image-1461502026.jpeg?cache=3600&width=350&height=350&mode=CropUpsize"
+    },
+    {
+      "name": "Владимир Цышнатий",
+      "job_title": "Positive Technologies",
+      "talk_title": "Компилируем TypeScript",
+      "avatar_url": "https://squidex.jugru.team/api/assets/srm/db3fd5d1-2345-4b2d-a443-07a82aa019af/photo-2025-08-14-19-49-18.jpg?cache=3600&width=350&height=350&mode=CropUpsize"
+    },
+    {
+      "name": "Илья Соколов",
+      "job_title": "Учи.ру",
+      "talk_title": "Кеширование в вебе: стратегии, подводные камни и современные инструменты",
+      "avatar_url": "https://squidex.jugru.team/api/assets/srm/25c37b13-c7c4-46f6-b1b9-00d21d11c2d2/2025-08-19-16.57.28-modified.png?cache=3600&width=350&height=350&mode=CropUpsize"
+    },
+    {
+      "name": "Алексей Тушинский",
+      "job_title": "VK",
+      "talk_title": "Безупречная обработка ошибок в TypeScript",
+      "avatar_url": "https://squidex.jugru.team/api/assets/srm/809b218c-3dd7-4937-bff1-399f58962b3d/screenshot-2025-08-16-at-2.19.31-am.png?cache=3600&width=350&height=350&mode=CropUpsize"
+    },
+    {
+      "name": "Эдвард Гиголаев",
+      "job_title": "Яндекс",
+      "talk_title": "Почему вам (скорее всего) нужен эффектор",
+      "avatar_url": "https://squidex.jugru.team/api/assets/srm/6dc97acd-4576-4db0-a505-9e31dd44efa7/img-5022.jpeg?cache=3600&width=350&height=350&mode=CropUpsize"
+    },
+    {
+      "name": "Георгий Михаль",
+      "job_title": "Сбер",
+      "talk_title": "Интерактивный помощник в приложении. Как заблокировать пользователю весь интерфейс и сделать его счастливее",
+      "avatar_url": "https://squidex.jugru.team/api/assets/srm/36ba9808-1091-4181-ae07-45b4d775864d/photo-2025-08-27-18-45-216.jpg?cache=3600&width=350&height=350&mode=CropUpsize"
+    },
+    {
+      "name": "Андрей Ёлкин",
+      "job_title": "Cycloid",
+      "talk_title": "Делаем бэкенд на Nuxt",
+      "avatar_url": "https://squidex.jugru.team/api/assets/srm/d5ecfe00-92cf-4833-a96d-d5e29ca7bafe/photo-2025-01-02-10.53.45.jpeg?cache=3600&width=350&height=350&mode=CropUpsize"
+    },
+    {
+      "name": "Никита Ульшин",
+      "job_title": "Т-Банк",
+      "talk_title": "Технофитнес: как эффективно прокачивать hard skills",
+      "avatar_url": "https://squidex.jugru.team/api/assets/srm/9d5556af-6f2a-4a80-89f7-aa927a874792/140923-30-1-.jpg?cache=3600&width=350&height=350&mode=CropUpsize"
+    },
+    {
+      "name": "Сергей Соловьев",
+      "job_title": "Т-Банк",
+      "talk_title": "От латыни до async/await: археологические раскопки JavaScript",
+      "avatar_url": "https://squidex.jugru.team/api/assets/srm/c8dc5ffc-260d-4264-98f4-5f6b0f924ce8/snimok-ekrana-2025-07-16-v-07.20.51.png?cache=3600&width=350&height=350&mode=CropUpsize"
+    },
+    {
+      "name": "Максим Медунецкий",
+      "job_title": "VK / ВКонтакте",
+      "talk_title": "Как внедрить Critical CSS и как это улучшит метрики загрузки",
+      "avatar_url": "https://squidex.jugru.team/api/assets/srm/4a58d04c-6590-4850-a85b-39c60f61fc2c/img-4313.jpeg?cache=3600&width=350&height=350&mode=CropUpsize"
+    },
+    {
+      "name": "Артем Шовкин",
+      "job_title": "СберТех",
+      "talk_title": "AI-агент аудирования фронтенд-приложения",
+      "avatar_url": "https://squidex.jugru.team/api/assets/srm/e2b7d02e-1c98-4b01-84be-6b0981c0a51c/fc-face.jpg?cache=3600&width=350&height=350&mode=CropUpsize"
+    },
+    {
+      "name": "Иван Малюгин",
+      "job_title": "билайн",
+      "talk_title": "REACT_INTERNALS_​DO_NOT_USE_​OR_YOU_WILL_BE_FIRED",
+      "avatar_url": "https://squidex.jugru.team/api/assets/srm/692fefe9-8a44-44aa-974f-de8b1bff6b5a/img-5654.jpg?cache=3600&width=350&height=350&mode=CropUpsize"
+    },
+    {
+      "name": "Андрей Соколов",
+      "job_title": "YADRO",
+      "talk_title": "Типовой беспредел: бинарное дерево на типах",
+      "avatar_url": "https://squidex.jugru.team/api/assets/srm/89da0719-6415-4a91-898f-4d1ed9bfc449/snimok-ekrana-2025-08-27-v-13.04.33.png?cache=3600&width=350&height=350&mode=CropUpsize"
+    },
+    {
+      "name": "Антон Непша",
+      "job_title": "Сбер",
+      "talk_title": "Инструменты дебага LLM-приложений на JS",
+      "avatar_url": "https://squidex.jugru.team/api/assets/srm/59c02bfc-a23e-46eb-9522-e63b949a7662/anton-nepsha.jpg?cache=3600&width=350&height=350&mode=CropUpsize"
+    },
+    {
+      "name": "Артем Яшин",
+      "job_title": "",
+      "talk_title": "Создание анимаций на JS: Canvas 2D и WebGL",
+      "avatar_url": "https://squidex.jugru.team/api/assets/srm/a2a1fe9c-72b6-4009-b075-9d290fab697a/photo1.png?cache=3600&width=350&height=350&mode=CropUpsize"
+    },
+    {
+      "name": "Алексей Наговицын",
+      "job_title": "VK / ВКонтакте",
+      "talk_title": "DevTools Console своими руками",
+      "avatar_url": "https://squidex.jugru.team/api/assets/srm/485517dd-c805-4f4a-93e8-723b030a9bbb/4932134-1-.png?cache=3600&width=350&height=350&mode=CropUpsize"
+    },
+    {
+      "name": "Андрей Кузнецов",
+      "job_title": "2ГИС",
+      "talk_title": "Анимации необычного фронтенда",
+      "avatar_url": "https://squidex.jugru.team/api/assets/srm/e0f181a3-fb08-4b5d-82de-cf0be21d0b69/iface.jpg?cache=3600&width=350&height=350&mode=CropUpsize"
+    },
+    {
+      "name": "Егор Быховцев",
+      "job_title": "Яндекс",
+      "talk_title": "Просто рендерилка. SSR Front-Back на gRPC и React без походов по сети",
+      "avatar_url": "https://squidex.jugru.team/api/assets/srm/db3e36b1-3823-4990-bd43-ca5eefb87372/img-20250901-093550-copy.jpg?cache=3600&width=350&height=350&mode=CropUpsize"
+    },
+    {
+      "name": "Денис Кондратьев",
+      "job_title": "Точка",
+      "talk_title": "Progressive Web Applications: выживание в эпоху жестких ограничений",
+      "avatar_url": "https://squidex.jugru.team/api/assets/srm/7f9fd532-35c5-44e5-b1af-5fdef1998e24/000-5-resized.jpg?cache=3600&width=350&height=350&mode=CropUpsize"
+    },
+    {
+      "name": "Дмитрий Холстинин",
+      "job_title": "Т-Банк",
+      "talk_title": "Рефакторим рецепт полифилов",
+      "avatar_url": "https://squidex.jugru.team/api/assets/srm/49586b6e-6b9d-4b88-99e0-13a382c8dfe1/dimas.png?cache=3600&width=350&height=350&mode=CropUpsize"
+    },
+    {
+      "name": "Павел Уваров",
+      "job_title": "Kaspersky",
+      "talk_title": "Web-perf: как выжать максимум из enterprise-проектов",
+      "avatar_url": "https://squidex.jugru.team/api/assets/srm/b3ba8915-6256-4f97-adf9-6f3d19034c31/uvarov.jpg?cache=3600&width=350&height=350&mode=CropUpsize"
+    },
+    {
+      "name": "Александр Мальцев",
+      "job_title": "Yandex Crowd",
+      "talk_title": "Cтатический анализ ECMAScript для оценки его интероперабельности",
+      "avatar_url": "https://squidex.jugru.team/api/assets/srm/14cd7528-ef7d-40c2-a9b4-f262c8083498/portrait.jpg?cache=3600&width=350&height=350&mode=CropUpsize"
+    },
+    {
+      "name": "Павел  Востриков",
+      "job_title": "Kaspersky",
+      "talk_title": "Внедряем Architecture Decision Log: принятие, валидация и корректировка архитектурных решений",
+      "avatar_url": "https://squidex.jugru.team/api/assets/srm/534a3fbb-1ef6-43f8-8a58-8cd0116feae4/photo-2023-12-28-18-38-27-1-.jpg?cache=3600&width=350&height=350&mode=CropUpsize"
+    },
+    {
+      "name": "Василий Полтевский",
+      "job_title": "РЕСО-Гарантия",
+      "talk_title": "Карты, данные, две координаты — картография без боли",
+      "avatar_url": "https://squidex.jugru.team/api/assets/srm/1cbae418-8852-4d5a-80f7-dbe6d5179fa8/1000004427.jpg?cache=3600&width=350&height=350&mode=CropUpsize"
+    }
+  ],
+  "logo": "data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTk1IiBoZWlnaHQ9IjE0OSIgdmlld0JveD0iMCAwIDE5NSAxNDkiIGZpbGw9Im5vbmUiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+CjxnIGNsaXAtcGF0aD0idXJsKCNjbGlwMF8xODI5XzMyOTY1KSI+CjxwYXRoIGZpbGwtcnVsZT0iZXZlbm9kZCIgY2xpcC1ydWxlPSJldmVub2RkIiBkPSJNMTMwLjk0OCAxMDEuMDZWMTA3LjA1TDEzNy43NDcgMTA1Ljc3NVY5OS44NjJMMTMwLjk0OCAxMDEuMDZaTTE0Mi41MDMgOTkuMDA4MVYxMDQuOTk4TDE0OS4yOSAxMDMuOFY5Ny44MTAyTDE0Mi41MDMgOTkuMDA4MVpNMTU0LjA0NiA5Ni45NjkxVjEwMi45NTlMMTYwLjg0NSAxMDEuNzQ4Vjk1Ljc1ODRMMTU0LjA0NiA5Ni45NjkxWk01My4yOTc3IDg2LjM2NjFWMTEyLjEzNEM1My4zNDM4IDExMi40ODQgNTMuMzE3IDExMi44NCA1My4yMTkxIDExMy4xNzlDNTMuMTIxMiAxMTMuNTE4IDUyLjk1NDIgMTEzLjgzMyA1Mi43Mjg5IDExNC4xMDRDNTIuNTAzNSAxMTQuMzc0IDUyLjIyNDUgMTE0LjU5NSA1MS45MDk4IDExNC43NTJDNTEuNTk1MSAxMTQuOTA5IDUxLjI1MTQgMTE0Ljk5OCA1MC45MDA1IDExNS4wMTVMNDIuMTczOSAxMTYuNTU3QzQwLjYyNjUgMTE2LjgzNyA0MC4wNDMxIDExNi4zMjcgNDAuMDQzMSAxMTQuNzZWMTA5LjIyOUwzMy4yOTUyIDExMC40MjdWMTE1LjUyNEMzMy4yOTUyIDEyMS4xNDQgMzYuNTA0MiAxMjMuODQ2IDQyLjAwOSAxMjIuODc4TDUxLjY0ODggMTIxLjE3QzU3LjA2NDggMTIwLjIwMSA2MC4wOTYzIDExNi41NjkgNjAuMDk2MyAxMTEuMDM4Vjg1LjE2ODFMNTMuMjk3NyA4Ni4zNjYxWk04OS40OTc2IDc5Ljk5NDFMODAuMTI0MiA4MS42NTA4Qzc0Ljk3NDUgODIuNTY4MyA3MS42NjQgODUuNzI4OSA3MS42NjQgOTEuMTE5NlY5My42MTc0QzcxLjY2NCA5Ny4zMjU5IDczLjM3NjMgOTkuODc0NyA3Ny4yMDY4IDEwMC4xOTNMOTAuMjg0IDEwMS4zMDJDOTEuMTcxOSAxMDEuMzc4IDkxLjU1MjQgMTAxLjc0OCA5MS41NTI0IDEwMi41NzZWMTA2LjAzQzkxLjU1MjQgMTA3LjYzNiA5MC41NTAzIDEwOC4yMjIgODkuMDkxNiAxMDguNDc3TDgwLjIxMjkgMTEwLjAzMkM3OC45NDQ1IDExMC4yNzQgNzguMDE4NiAxMTAuMTcyIDc4LjAxODYgMTA4LjY4MVYxMDMuOTY2TDcxLjMzNDIgMTA1LjE1MVYxMDkuNDMzQzcxLjMzNDIgMTE0Ljk1MSA3NC43NTg5IDExNy4wNzkgNzkuOTQ2NiAxMTYuMTYyTDg5LjcyNTggMTE0LjQyOEM5NC45MDA5IDExMy41MTEgOTguMjM2OCAxMTAuMzc2IDk4LjIzNjggMTA0Ljk0N1YxMDAuODQzQzk4LjIzNjggOTcuMDIwMSA5Ni4wNjc5IDk1LjAwNjUgOTIuMzc2OSA5NC42ODc5TDc5LjU1MzMgOTMuNTkxOUM3OC40MTE4IDkzLjQ5IDc4LjM0ODQgOTMuMTU4NiA3OC4zNDg0IDkyLjAzNzJWOTAuMDEwOUM3OC4zNDg0IDg4LjQwNTEgNzkuMzUwNSA4Ny44MTg5IDgwLjc5NjUgODcuNTY0TDg5LjIxODUgODYuMDcyOUM5MC40ODY4IDg1Ljg0MzYgOTEuNDEyOSA4NS45MzI4IDkxLjQxMjkgODcuNDM2NlY5Mi41MzQyTDk4LjA5NzIgOTEuMzQ5Vjg2Ljc0ODRDOTguMDk3MiA4Mi4wOTY4IDk1LjU2MDQgNzkuODI4NCA5MS42MTU3IDc5LjgyODRDOTAuOTA3NCA3OS44MTE4IDkwLjE5ODkgNzkuODU0NCA4OS40OTc2IDc5Ljk1NThWNzkuOTk0MVpNMTI0LjYwNyA3MS4zOTE5TDExMC4xMjIgMTEyLjU4TDExNy4wOTggMTExLjMwNkwxMzEuNTk1IDcwLjEzMDJMMTI0LjYwNyA3MS4zOTE5Wk01My4yOTc3IDQzLjIyNzZWNTYuNTMyNEw0MC4wOTM4IDU4Ljg2NDVWNDUuNTIxNkwzMy4yOTUyIDQ2LjczMjJWODAuODczNEw0MC4wOTM4IDc5LjU5OVY2NC45NDM0TDUzLjI5NzcgNjIuNjExM1Y3Ny4yNjY5TDYwLjA5NjMgNzYuMDU2MlY0MS45Nzg3TDUzLjI5NzcgNDMuMjI3NlpNNzguMTQ1NCA2NC40NzE5VjQ3LjM2OTRDNzguMTA4OCA0Ny4wMjg1IDc4LjE0MTEgNDYuNjgzNiA3OC4yNDAyIDQ2LjM1NTRDNzguMzM5MyA0Ni4wMjczIDc4LjUwMzMgNDUuNzIyNiA3OC43MjIzIDQ1LjQ1OTdDNzguOTQxNCA0NS4xOTY3IDc5LjIxMTIgNDQuOTgwOCA3OS41MTUyIDQ0LjgyNTFDNzkuODE5MyA0NC42NjkzIDgwLjE1MTYgNDQuNTc2NyA4MC40OTIxIDQ0LjU1M0w4OS4yMTg1IDQzLjAxMUM5MC43MTUyIDQyLjc0MzQgOTEuMzQ5NCA0My4yMDIxIDkxLjM0OTQgNDQuNzU2OVY2MS45ODY4QzkxLjM4NjEgNjIuMzMxOCA5MS4zNTIyIDYyLjY4MDcgOTEuMjUgNjMuMDEyMUM5MS4xNDc4IDYzLjM0MzUgOTAuOTc5MyA2My42NTA0IDkwLjc1NDkgNjMuOTE0MUM5MC41MzA0IDY0LjE3NzggOTAuMjU0OCA2NC4zOTI3IDg5Ljk0NDggNjQuNTQ1NUM4OS42MzQ4IDY0LjY5ODQgODkuMjk3IDY0Ljc4NjEgODguOTUyMSA2NC44MDMyTDgwLjIyNTYgNjYuMzQ1M0M4MC4wMTQ4IDY2LjM2NzkgNzkuODAyMiA2Ni4zNjc5IDc5LjU5MTQgNjYuMzQ1M0M3OC41MTMzIDY2LjQwOSA3OC4xNDU0IDY1Ljc0NjMgNzguMTQ1NCA2NC40MzM3VjY0LjQ3MTlaTTg5LjQzNDEgMzYuNzc5Mkw3OS43OTQ0IDM4LjQ4NjlDNzQuMzc4NCAzOS40NDI3IDcxLjM0NjkgNDMuMDg3NCA3MS4zNDY5IDQ4LjYwNTZWNjUuMzAwMkM3MS4zNDY5IDcwLjkyMDMgNzQuNTU1OSA3My42MjIxIDgwLjA2MDcgNzIuNjUzNUw4OS43MDA0IDcwLjk0NThDOTUuMTE2NSA2OS45NzczIDk4LjE0OCA2Ni4zNDUzIDk4LjE0OCA2MC44MTQ0VjQ0LjA5NDJDOTguMTQ4IDM5LjIyNiA5NS43NTA3IDM2LjU0OTggOTEuNTI3IDM2LjU0OThDOTAuODI1MiAzNi41NTM2IDkwLjEyNTEgMzYuNjE3NSA4OS40MzQxIDM2Ljc0MDlWMzYuNzc5MlpNMTA5LjI5NyAzMy4zMDAxVjY3LjQ5MjJMMTMyLjQ4MyA2My4zODg2VjU3LjE1NjhMMTE2LjA4MyA2MC4wNjI1VjMyLjA2MzlMMTA5LjI5NyAzMy4zMDAxWk0xNTQuMjYxIDI1LjMzNTFWMjkuOTk5M0MxNTQuMjgxIDMwLjg5MDcgMTU0LjA2MiAzMS43NzA4IDE1My42MjcgMzIuNTQ4MUwxNDcuNDUgNDMuMTAwMkwxNDEuMjIyIDM0LjU3NDVDMTQwLjgyNSAzMy45MTU3IDE0MC42MzUgMzMuMTUxNyAxNDAuNjc3IDMyLjM4MjVWMjcuNzY5MUwxMzMuOTQyIDI4Ljk2NzFWMzMuODk5QzEzMy44NzQgMzUuMjE3MSAxMzQuMjIgMzYuNTIzMyAxMzQuOTMxIDM3LjYzM0wxNDMuOTg4IDUwLjAyMDJWNjEuMzc1MUwxNTAuNzg2IDYwLjE2NDRWNDguODIyM0wxNTkuODMgMzMuMzc2NUMxNjAuNTE3IDMyLjE3MTEgMTYwLjg2NyAzMC44MDE5IDE2MC44NDUgMjkuNDEzMVYyNC4yMDA4TDE1NC4yNjEgMjUuMzM1MVpNMTkuNjk4MSA5OC4zNTgyTDkuNTUxMDEgODkuODMyNEwxOS42OTgxIDc3Ljk4MDVWMzUuNTU1N0wxNzQuNDQyIDguMDU0MThWNTAuMDMyOUwxODQuNTg5IDU4LjU5NjlMMTc0LjQ0MiA3MC41MzhWMTEzLjAwMUwxNTQuMDQ2IDExNi42OTdWMTM4LjIyMUwxMTQuNDg1IDEyMy43NTdMMTkuNjk4MSAxNDAuNTU0Vjk4LjM1ODJaTTEyLjg5OTYgMjkuODk3NFY3Ni4wODE2TDAgOTEuMTk2MUwxMi44OTk2IDEwMi4wNDFWMTQ4LjU1N0wxMTMuNzI0IDEzMC43MTVMMTYwLjg0NSAxNDcuOTU4VjEyMi4zNDJMMTgxLjI0IDExOC42NDdWNzIuNDM2OUwxOTQuMjY3IDU3LjE0NDFMMTgxLjI1MyA0Ni4yNjA3VjBMMTIuODk5NiAyOS44OTc0WiIgZmlsbD0id2hpdGUiLz4KPC9nPgo8ZGVmcz4KPGNsaXBQYXRoIGlkPSJjbGlwMF8xODI5XzMyOTY1Ij4KPHJlY3Qgd2lkdGg9IjE5NC4yNjciIGhlaWdodD0iMTQ4LjU1NyIgZmlsbD0id2hpdGUiLz4KPC9jbGlwUGF0aD4KPC9kZWZzPgo8L3N2Zz4K"
+}
