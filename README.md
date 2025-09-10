@@ -5,7 +5,7 @@
 ### Usage
 
 ```bash
-python opengraph_generator.py <file jsin> [опции]
+python opengraph_generator.py <file json> [опции]
 ```
 
 ### Params
